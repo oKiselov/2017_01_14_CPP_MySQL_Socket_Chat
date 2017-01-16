@@ -13,7 +13,7 @@ namespace GlobalDataVariables
 	static std::string strUserAccount = "root";
 
 	// password
-	static std::string strPassword = "MySQLDr0zd0vsk1y";
+	static std::string strPassword = "----";
 
 	// name of database
 	static std::string strNameDB = "socket_chat_db";
